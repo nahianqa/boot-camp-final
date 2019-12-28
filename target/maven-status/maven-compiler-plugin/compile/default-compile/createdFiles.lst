@@ -1,0 +1,6 @@
+com\gmai\elimentLocator\HomePage.class
+com\gmail\utilities\BasePage.class
+com\gmail\utilities\LogCollection.class
+com\gmail\utilities\Constant.class
+com\gmail\utilities\ExtentReportListener.class
+com\gmai\elimentLocator\LoginPage.class

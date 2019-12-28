@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="gmail.com sanity Test" verbose="4">
+
+	<listeners>
+		<listener class-name="com.gmail.utilities.ExtentReportListener" />
+	</listeners>
+
+	<test name="Digitalpoint sanity Test">
+		<classes>
+			<class name="com.gmail.testcase.LoginPageTest" />
+		</classes>
+	</test>
+</suite>

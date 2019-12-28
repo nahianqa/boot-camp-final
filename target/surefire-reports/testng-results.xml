@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="46965" started-at="2019-12-28T00:43:16 EST" finished-at="2019-12-28T00:44:03 EST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="46965" started-at="2019-12-28T00:43:16 EST" finished-at="2019-12-28T00:44:03 EST">
+      <class name="com.gmail.testcase.LoginPageTest">
+        <test-method status="PASS" signature="browserSetup()[pri:0, instance:com.gmail.testcase.LoginPageTest@59494225]" name="browserSetup" is-config="true" duration-ms="17566" started-at="2019-12-28T00:43:16 EST" finished-at="2019-12-28T00:43:34 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method status="PASS" signature="userlogin()[pri:0, instance:com.gmail.testcase.LoginPageTest@59494225]" name="userlogin" duration-ms="12293" started-at="2019-12-28T00:43:34 EST" finished-at="2019-12-28T00:43:46 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userlogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.gmail.testcase.LoginPageTest@59494225]" name="tearDown" is-config="true" duration-ms="764" started-at="2019-12-28T00:43:46 EST" finished-at="2019-12-28T00:43:47 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="browserSetup()[pri:0, instance:com.gmail.testcase.LoginPageTest@59494225]" name="browserSetup" is-config="true" duration-ms="15635" started-at="2019-12-28T00:43:47 EST" finished-at="2019-12-28T00:44:02 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method status="PASS" signature="verfyLoginPageTitle()[pri:0, instance:com.gmail.testcase.LoginPageTest@59494225]" name="verfyLoginPageTitle" duration-ms="26" started-at="2019-12-28T00:44:02 EST" finished-at="2019-12-28T00:44:02 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verfyLoginPageTitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.gmail.testcase.LoginPageTest@59494225]" name="tearDown" is-config="true" duration-ms="647" started-at="2019-12-28T00:44:02 EST" finished-at="2019-12-28T00:44:03 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.gmail.testcase.LoginPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
